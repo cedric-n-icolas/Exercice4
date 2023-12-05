@@ -1,0 +1,24 @@
+{
+  "name": "hedera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisc0f/hedera.git"
+  },
+  "author": "Cedric NICOLAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cisc0f/hedera/issues"
+  },
+  "homepage": "https://github.com/cisc0f/hedera#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.38.0",
+    "axios": "^1.1.3",
+    "dotenv": "^16.3.1"
+  }
+}
